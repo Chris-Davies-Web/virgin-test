@@ -9,6 +9,7 @@ The readme would consist of:
 4. Any other relevant information (i.e. segments, metrics, technical discovery)
 
 *** Notes ***
+
 I had issues implementing a Mutation Observer on the Angular site. 
 It seemed to work rarely and inconsistently so I took the approach of a set interval instead. 
 
