@@ -125,7 +125,7 @@
                                     <div _ngcontent-hhi-c53="" class="modal__body clear-bg">
                                         <p _ngcontent-hhi-c69="" class="margin-top text-modal">
                                             <div>
-                                                <p>The activation fee is the charge for the work that goes on behind the scenes to get you connected to our network. This is a one-off charge and will be added to your first bill. For more information see out <a href="${priceGuideLink}" class="price-guide-link">price guides</a></p>
+                                                <p>The activation fee is the charge for the work that goes on behind the scenes to get you connected to our network. This is a one-off charge and will be added to your first bill. For more information see out <a href="${priceGuideLink}" class="price-guide-link" target="_blank">price guides</a></p>
                                             </div>
                                         </p>
                                     </div>
